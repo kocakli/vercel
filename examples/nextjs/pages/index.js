@@ -20,7 +20,13 @@ export default function Home() {
           Get started by editing{' '}
           <code className={styles.code}>pages/index.js</code>
         </p>
-
+<iframe
+    src="https://gateway.ipfscdn.io/ipfs/Qmcine1gpZUbQ73nk7ZGCcjKBVFYXrEtqrhujXk3HDQ6Nn/erc721.html?contract=0x7Db0f9C48c410fE52765164Fbbd0Fd6b6646B909&chainId=5"
+    width="600px"
+    height="600px"
+    style="max-width:100%;"
+    frameborder="0"
+    ></iframe>
         <div className={styles.grid}>
           <a href="https://nextjs.org/docs" className={styles.card}>
             <h2>Documentation &rarr;</h2>
